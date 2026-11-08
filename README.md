@@ -56,7 +56,24 @@ Report results with the evaluation split and metric definitions. Avoid presentin
 
 ## Citation
 
-If this repository is associated with a paper, thesis, or dataset, add its verified citation here. No citation is included in this draft because the linked repository materials could not be inspected.
+For background on Wi-Fi human activity recognition using Doppler information, see the SHARP paper:
+
+> F. Meneghello, D. Garlisi, N. Dal Fabbro, I. Tinnirello, and M. Rossi, “SHARP: Environment and Person Independent Activity Recognition With Commodity IEEE 802.11 Access Points,” *IEEE Transactions on Mobile Computing*, vol. 22, no. 10, pp. 6160–6175, 2023. [doi:10.1109/TMC.2022.3185681](https://doi.org/10.1109/TMC.2022.3185681).
+
+```bibtex
+@article{meneghello2023sharp,
+  author  = {Meneghello, Francesca and Garlisi, Domenico and Dal Fabbro, Nicol\'o and Tinnirello, Ilenia and Rossi, Michele},
+  title   = {{SHARP}: Environment and Person Independent Activity Recognition With Commodity {IEEE} 802.11 Access Points},
+  journal = {IEEE Transactions on Mobile Computing},
+  year    = {2023},
+  volume  = {22},
+  number  = {10},
+  pages   = {6160--6175},
+  doi     = {10.1109/TMC.2022.3185681}
+}
+```
+
+If this repository directly uses or reproduces SHARP, describe that connection here; the linked repository contents were unavailable for verification while drafting this README.
 
 ## License
 
