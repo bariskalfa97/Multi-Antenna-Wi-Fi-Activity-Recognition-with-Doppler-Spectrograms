@@ -1,0 +1,546 @@
+[
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_E_stream_0.txt",
+    "session": "S7a",
+    "recording": "S7a_E",
+    "antenna": 0,
+    "label": 0,
+    "shape": [
+      18343,
+      100
+    ],
+    "windows": 601,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18343,
+    "first_window_start": 0,
+    "last_window_start": 18000
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_E_stream_1.txt",
+    "session": "S7a",
+    "recording": "S7a_E",
+    "antenna": 1,
+    "label": 0,
+    "shape": [
+      18343,
+      100
+    ],
+    "windows": 601,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18343,
+    "first_window_start": 0,
+    "last_window_start": 18000
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_E_stream_2.txt",
+    "session": "S7a",
+    "recording": "S7a_E",
+    "antenna": 2,
+    "label": 0,
+    "shape": [
+      18343,
+      100
+    ],
+    "windows": 601,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18343,
+    "first_window_start": 0,
+    "last_window_start": 18000
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_E_stream_3.txt",
+    "session": "S7a",
+    "recording": "S7a_E",
+    "antenna": 3,
+    "label": 0,
+    "shape": [
+      18343,
+      100
+    ],
+    "windows": 601,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18343,
+    "first_window_start": 0,
+    "last_window_start": 18000
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J1_stream_0.txt",
+    "session": "S7a",
+    "recording": "S7a_J1",
+    "antenna": 0,
+    "label": 4,
+    "shape": [
+      4967,
+      100
+    ],
+    "windows": 155,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 4967,
+    "first_window_start": 0,
+    "last_window_start": 4620
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J1_stream_1.txt",
+    "session": "S7a",
+    "recording": "S7a_J1",
+    "antenna": 1,
+    "label": 4,
+    "shape": [
+      4967,
+      100
+    ],
+    "windows": 155,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 4967,
+    "first_window_start": 0,
+    "last_window_start": 4620
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J1_stream_2.txt",
+    "session": "S7a",
+    "recording": "S7a_J1",
+    "antenna": 2,
+    "label": 4,
+    "shape": [
+      4967,
+      100
+    ],
+    "windows": 155,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 4967,
+    "first_window_start": 0,
+    "last_window_start": 4620
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J1_stream_3.txt",
+    "session": "S7a",
+    "recording": "S7a_J1",
+    "antenna": 3,
+    "label": 4,
+    "shape": [
+      4967,
+      100
+    ],
+    "windows": 155,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 4967,
+    "first_window_start": 0,
+    "last_window_start": 4620
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J2_stream_0.txt",
+    "session": "S7a",
+    "recording": "S7a_J2",
+    "antenna": 0,
+    "label": 4,
+    "shape": [
+      5232,
+      100
+    ],
+    "windows": 164,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 5232,
+    "first_window_start": 0,
+    "last_window_start": 4890
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J2_stream_1.txt",
+    "session": "S7a",
+    "recording": "S7a_J2",
+    "antenna": 1,
+    "label": 4,
+    "shape": [
+      5232,
+      100
+    ],
+    "windows": 164,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 5232,
+    "first_window_start": 0,
+    "last_window_start": 4890
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J2_stream_2.txt",
+    "session": "S7a",
+    "recording": "S7a_J2",
+    "antenna": 2,
+    "label": 4,
+    "shape": [
+      5232,
+      100
+    ],
+    "windows": 164,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 5232,
+    "first_window_start": 0,
+    "last_window_start": 4890
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J2_stream_3.txt",
+    "session": "S7a",
+    "recording": "S7a_J2",
+    "antenna": 3,
+    "label": 4,
+    "shape": [
+      5232,
+      100
+    ],
+    "windows": 164,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 5232,
+    "first_window_start": 0,
+    "last_window_start": 4890
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J3_stream_0.txt",
+    "session": "S7a",
+    "recording": "S7a_J3",
+    "antenna": 0,
+    "label": 4,
+    "shape": [
+      5337,
+      100
+    ],
+    "windows": 167,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 5337,
+    "first_window_start": 0,
+    "last_window_start": 4980
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J3_stream_1.txt",
+    "session": "S7a",
+    "recording": "S7a_J3",
+    "antenna": 1,
+    "label": 4,
+    "shape": [
+      5337,
+      100
+    ],
+    "windows": 167,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 5337,
+    "first_window_start": 0,
+    "last_window_start": 4980
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J3_stream_2.txt",
+    "session": "S7a",
+    "recording": "S7a_J3",
+    "antenna": 2,
+    "label": 4,
+    "shape": [
+      5337,
+      100
+    ],
+    "windows": 167,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 5337,
+    "first_window_start": 0,
+    "last_window_start": 4980
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_J3_stream_3.txt",
+    "session": "S7a",
+    "recording": "S7a_J3",
+    "antenna": 3,
+    "label": 4,
+    "shape": [
+      5337,
+      100
+    ],
+    "windows": 167,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 5337,
+    "first_window_start": 0,
+    "last_window_start": 4980
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_L1_stream_0.txt",
+    "session": "S7a",
+    "recording": "S7a_L1",
+    "antenna": 0,
+    "label": 1,
+    "shape": [
+      8589,
+      100
+    ],
+    "windows": 275,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 8589,
+    "first_window_start": 0,
+    "last_window_start": 8220
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_L1_stream_1.txt",
+    "session": "S7a",
+    "recording": "S7a_L1",
+    "antenna": 1,
+    "label": 1,
+    "shape": [
+      8589,
+      100
+    ],
+    "windows": 275,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 8589,
+    "first_window_start": 0,
+    "last_window_start": 8220
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_L1_stream_2.txt",
+    "session": "S7a",
+    "recording": "S7a_L1",
+    "antenna": 2,
+    "label": 1,
+    "shape": [
+      8589,
+      100
+    ],
+    "windows": 275,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 8589,
+    "first_window_start": 0,
+    "last_window_start": 8220
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_L1_stream_3.txt",
+    "session": "S7a",
+    "recording": "S7a_L1",
+    "antenna": 3,
+    "label": 1,
+    "shape": [
+      8589,
+      100
+    ],
+    "windows": 275,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 8589,
+    "first_window_start": 0,
+    "last_window_start": 8220
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_L2_stream_0.txt",
+    "session": "S7a",
+    "recording": "S7a_L2",
+    "antenna": 0,
+    "label": 1,
+    "shape": [
+      8641,
+      100
+    ],
+    "windows": 277,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 8641,
+    "first_window_start": 0,
+    "last_window_start": 8280
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_L2_stream_1.txt",
+    "session": "S7a",
+    "recording": "S7a_L2",
+    "antenna": 1,
+    "label": 1,
+    "shape": [
+      8641,
+      100
+    ],
+    "windows": 277,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 8641,
+    "first_window_start": 0,
+    "last_window_start": 8280
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_L2_stream_2.txt",
+    "session": "S7a",
+    "recording": "S7a_L2",
+    "antenna": 2,
+    "label": 1,
+    "shape": [
+      8641,
+      100
+    ],
+    "windows": 277,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 8641,
+    "first_window_start": 0,
+    "last_window_start": 8280
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_L2_stream_3.txt",
+    "session": "S7a",
+    "recording": "S7a_L2",
+    "antenna": 3,
+    "label": 1,
+    "shape": [
+      8641,
+      100
+    ],
+    "windows": 277,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 8641,
+    "first_window_start": 0,
+    "last_window_start": 8280
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_R1_stream_0.txt",
+    "session": "S7a",
+    "recording": "S7a_R1",
+    "antenna": 0,
+    "label": 3,
+    "shape": [
+      18932,
+      100
+    ],
+    "windows": 620,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18932,
+    "first_window_start": 0,
+    "last_window_start": 18570
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_R1_stream_1.txt",
+    "session": "S7a",
+    "recording": "S7a_R1",
+    "antenna": 1,
+    "label": 3,
+    "shape": [
+      18932,
+      100
+    ],
+    "windows": 620,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18932,
+    "first_window_start": 0,
+    "last_window_start": 18570
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_R1_stream_2.txt",
+    "session": "S7a",
+    "recording": "S7a_R1",
+    "antenna": 2,
+    "label": 3,
+    "shape": [
+      18932,
+      100
+    ],
+    "windows": 620,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18932,
+    "first_window_start": 0,
+    "last_window_start": 18570
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_R1_stream_3.txt",
+    "session": "S7a",
+    "recording": "S7a_R1",
+    "antenna": 3,
+    "label": 3,
+    "shape": [
+      18932,
+      100
+    ],
+    "windows": 620,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18932,
+    "first_window_start": 0,
+    "last_window_start": 18570
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_W_stream_0.txt",
+    "session": "S7a",
+    "recording": "S7a_W",
+    "antenna": 0,
+    "label": 2,
+    "shape": [
+      18724,
+      100
+    ],
+    "windows": 613,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18724,
+    "first_window_start": 0,
+    "last_window_start": 18360
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_W_stream_1.txt",
+    "session": "S7a",
+    "recording": "S7a_W",
+    "antenna": 1,
+    "label": 2,
+    "shape": [
+      18724,
+      100
+    ],
+    "windows": 613,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18724,
+    "first_window_start": 0,
+    "last_window_start": 18360
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_W_stream_2.txt",
+    "session": "S7a",
+    "recording": "S7a_W",
+    "antenna": 2,
+    "label": 2,
+    "shape": [
+      18724,
+      100
+    ],
+    "windows": 613,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18724,
+    "first_window_start": 0,
+    "last_window_start": 18360
+  },
+  {
+    "path": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces/S7a/S7a_W_stream_3.txt",
+    "session": "S7a",
+    "recording": "S7a_W",
+    "antenna": 3,
+    "label": 2,
+    "shape": [
+      18724,
+      100
+    ],
+    "windows": 613,
+    "partition": "full",
+    "partition_start": 0,
+    "partition_end": 18724,
+    "first_window_start": 0,
+    "last_window_start": 18360
+  }
+]

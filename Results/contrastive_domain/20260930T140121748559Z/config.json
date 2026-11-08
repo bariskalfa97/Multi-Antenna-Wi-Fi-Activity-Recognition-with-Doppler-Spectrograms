@@ -1,0 +1,61 @@
+{
+  "method": "domain-aware supervised contrastive pretraining followed by classifier fine-tuning",
+  "data_root": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces",
+  "classes": [
+    "empty",
+    "sitting",
+    "walking",
+    "running",
+    "jumping"
+  ],
+  "input_shape": [
+    1,
+    340,
+    100
+  ],
+  "preprocessing": "trace_mean",
+  "train_sessions": [
+    "S1a",
+    "S1b"
+  ],
+  "val_sessions": [
+    "S1c"
+  ],
+  "test_sessions": [
+    "S2a",
+    "S2b",
+    "S3a",
+    "S4a",
+    "S4b",
+    "S5a",
+    "S6a",
+    "S6b",
+    "S7a"
+  ],
+  "protocol": "session_held_out",
+  "val_partition": "full",
+  "eval_stride": 30,
+  "reference_windows": true,
+  "selected_checkpoint": "final.pt",
+  "arguments": {
+    "data_root": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces",
+    "pretrain_epochs": 10,
+    "finetune_epochs": 25,
+    "batch_size": 32,
+    "lr": 0.0001,
+    "patience": 3,
+    "time_shift": 15,
+    "gain_jitter": 0.05,
+    "noise_std": 0.005,
+    "time_mask": 20,
+    "frequency_mask": 6,
+    "temperature": 0.1,
+    "seed": 42,
+    "device": "mps",
+    "max_windows_per_trace": 0,
+    "output": null
+  },
+  "actual_device": "mps",
+  "projection_head": "25500 -> 128 -> 64; discarded before fine-tuning",
+  "positives": "same physical event across antennas OR same activity across S1a/S1b"
+}

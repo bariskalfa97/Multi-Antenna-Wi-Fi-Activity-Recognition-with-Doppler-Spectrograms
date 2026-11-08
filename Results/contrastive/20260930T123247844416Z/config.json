@@ -1,0 +1,54 @@
+{
+  "method": "supervised contrastive pretraining followed by classifier fine-tuning",
+  "data_root": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces",
+  "classes": [
+    "empty",
+    "sitting",
+    "walking",
+    "running",
+    "jumping"
+  ],
+  "input_shape": [
+    1,
+    340,
+    100
+  ],
+  "preprocessing": "trace_mean",
+  "train_sessions": [
+    "S1a",
+    "S1b",
+    "S1c"
+  ],
+  "val_sessions": [
+    "S1a",
+    "S1b",
+    "S1c"
+  ],
+  "test_sessions": [
+    "S2a",
+    "S2b",
+    "S3a",
+    "S4a",
+    "S4b",
+    "S5a",
+    "S6a",
+    "S6b",
+    "S7a"
+  ],
+  "protocol": "sharp",
+  "val_partition": "val",
+  "eval_stride": 30,
+  "reference_windows": true,
+  "selected_checkpoint": "final.pt",
+  "pretrain_epochs": 10,
+  "finetune_epochs": 25,
+  "batch_size": 32,
+  "lr": 0.0001,
+  "patience": 3,
+  "time_shift": 15,
+  "temperature": 0.1,
+  "seed": 42,
+  "actual_device": "cuda",
+  "max_windows_per_trace": 0,
+  "projection_head": "25500 -> 128 -> 64; discarded before fine-tuning"
+}

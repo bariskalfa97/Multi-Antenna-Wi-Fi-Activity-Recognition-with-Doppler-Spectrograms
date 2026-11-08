@@ -1,0 +1,1230 @@
+{
+  "train": [
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_E_stream_0.txt",
+      "session": "S1a",
+      "recording": "S1a_E",
+      "antenna": 0,
+      "label": 0,
+      "shape": [
+        18700,
+        100
+      ],
+      "windows": 612,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18700,
+      "first_window_start": 0,
+      "last_window_start": 18330
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_E_stream_1.txt",
+      "session": "S1a",
+      "recording": "S1a_E",
+      "antenna": 1,
+      "label": 0,
+      "shape": [
+        18700,
+        100
+      ],
+      "windows": 612,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18700,
+      "first_window_start": 0,
+      "last_window_start": 18330
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_E_stream_2.txt",
+      "session": "S1a",
+      "recording": "S1a_E",
+      "antenna": 2,
+      "label": 0,
+      "shape": [
+        18700,
+        100
+      ],
+      "windows": 612,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18700,
+      "first_window_start": 0,
+      "last_window_start": 18330
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_E_stream_3.txt",
+      "session": "S1a",
+      "recording": "S1a_E",
+      "antenna": 3,
+      "label": 0,
+      "shape": [
+        18700,
+        100
+      ],
+      "windows": 612,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18700,
+      "first_window_start": 0,
+      "last_window_start": 18330
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_J1_stream_0.txt",
+      "session": "S1a",
+      "recording": "S1a_J1",
+      "antenna": 0,
+      "label": 4,
+      "shape": [
+        8700,
+        100
+      ],
+      "windows": 279,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8700,
+      "first_window_start": 0,
+      "last_window_start": 8340
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_J1_stream_1.txt",
+      "session": "S1a",
+      "recording": "S1a_J1",
+      "antenna": 1,
+      "label": 4,
+      "shape": [
+        8700,
+        100
+      ],
+      "windows": 279,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8700,
+      "first_window_start": 0,
+      "last_window_start": 8340
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_J1_stream_2.txt",
+      "session": "S1a",
+      "recording": "S1a_J1",
+      "antenna": 2,
+      "label": 4,
+      "shape": [
+        8700,
+        100
+      ],
+      "windows": 279,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8700,
+      "first_window_start": 0,
+      "last_window_start": 8340
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_J1_stream_3.txt",
+      "session": "S1a",
+      "recording": "S1a_J1",
+      "antenna": 3,
+      "label": 4,
+      "shape": [
+        8700,
+        100
+      ],
+      "windows": 279,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8700,
+      "first_window_start": 0,
+      "last_window_start": 8340
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_J2_stream_0.txt",
+      "session": "S1a",
+      "recording": "S1a_J2",
+      "antenna": 0,
+      "label": 4,
+      "shape": [
+        8708,
+        100
+      ],
+      "windows": 279,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8708,
+      "first_window_start": 0,
+      "last_window_start": 8340
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_J2_stream_1.txt",
+      "session": "S1a",
+      "recording": "S1a_J2",
+      "antenna": 1,
+      "label": 4,
+      "shape": [
+        8708,
+        100
+      ],
+      "windows": 279,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8708,
+      "first_window_start": 0,
+      "last_window_start": 8340
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_J2_stream_2.txt",
+      "session": "S1a",
+      "recording": "S1a_J2",
+      "antenna": 2,
+      "label": 4,
+      "shape": [
+        8708,
+        100
+      ],
+      "windows": 279,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8708,
+      "first_window_start": 0,
+      "last_window_start": 8340
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_J2_stream_3.txt",
+      "session": "S1a",
+      "recording": "S1a_J2",
+      "antenna": 3,
+      "label": 4,
+      "shape": [
+        8708,
+        100
+      ],
+      "windows": 279,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8708,
+      "first_window_start": 0,
+      "last_window_start": 8340
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_L_stream_0.txt",
+      "session": "S1a",
+      "recording": "S1a_L",
+      "antenna": 0,
+      "label": 1,
+      "shape": [
+        18842,
+        100
+      ],
+      "windows": 617,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18842,
+      "first_window_start": 0,
+      "last_window_start": 18480
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_L_stream_1.txt",
+      "session": "S1a",
+      "recording": "S1a_L",
+      "antenna": 1,
+      "label": 1,
+      "shape": [
+        18842,
+        100
+      ],
+      "windows": 617,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18842,
+      "first_window_start": 0,
+      "last_window_start": 18480
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_L_stream_2.txt",
+      "session": "S1a",
+      "recording": "S1a_L",
+      "antenna": 2,
+      "label": 1,
+      "shape": [
+        18842,
+        100
+      ],
+      "windows": 617,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18842,
+      "first_window_start": 0,
+      "last_window_start": 18480
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_L_stream_3.txt",
+      "session": "S1a",
+      "recording": "S1a_L",
+      "antenna": 3,
+      "label": 1,
+      "shape": [
+        18842,
+        100
+      ],
+      "windows": 617,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18842,
+      "first_window_start": 0,
+      "last_window_start": 18480
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_R_stream_0.txt",
+      "session": "S1a",
+      "recording": "S1a_R",
+      "antenna": 0,
+      "label": 3,
+      "shape": [
+        19269,
+        100
+      ],
+      "windows": 631,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19269,
+      "first_window_start": 0,
+      "last_window_start": 18900
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_R_stream_1.txt",
+      "session": "S1a",
+      "recording": "S1a_R",
+      "antenna": 1,
+      "label": 3,
+      "shape": [
+        19269,
+        100
+      ],
+      "windows": 631,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19269,
+      "first_window_start": 0,
+      "last_window_start": 18900
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_R_stream_2.txt",
+      "session": "S1a",
+      "recording": "S1a_R",
+      "antenna": 2,
+      "label": 3,
+      "shape": [
+        19269,
+        100
+      ],
+      "windows": 631,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19269,
+      "first_window_start": 0,
+      "last_window_start": 18900
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_R_stream_3.txt",
+      "session": "S1a",
+      "recording": "S1a_R",
+      "antenna": 3,
+      "label": 3,
+      "shape": [
+        19269,
+        100
+      ],
+      "windows": 631,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19269,
+      "first_window_start": 0,
+      "last_window_start": 18900
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_W_stream_0.txt",
+      "session": "S1a",
+      "recording": "S1a_W",
+      "antenna": 0,
+      "label": 2,
+      "shape": [
+        19295,
+        100
+      ],
+      "windows": 632,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19295,
+      "first_window_start": 0,
+      "last_window_start": 18930
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_W_stream_1.txt",
+      "session": "S1a",
+      "recording": "S1a_W",
+      "antenna": 1,
+      "label": 2,
+      "shape": [
+        19295,
+        100
+      ],
+      "windows": 632,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19295,
+      "first_window_start": 0,
+      "last_window_start": 18930
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_W_stream_2.txt",
+      "session": "S1a",
+      "recording": "S1a_W",
+      "antenna": 2,
+      "label": 2,
+      "shape": [
+        19295,
+        100
+      ],
+      "windows": 632,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19295,
+      "first_window_start": 0,
+      "last_window_start": 18930
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1a/S1a_W_stream_3.txt",
+      "session": "S1a",
+      "recording": "S1a_W",
+      "antenna": 3,
+      "label": 2,
+      "shape": [
+        19295,
+        100
+      ],
+      "windows": 632,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19295,
+      "first_window_start": 0,
+      "last_window_start": 18930
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_E_stream_0.txt",
+      "session": "S1b",
+      "recording": "S1b_E",
+      "antenna": 0,
+      "label": 0,
+      "shape": [
+        18270,
+        100
+      ],
+      "windows": 598,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18270,
+      "first_window_start": 0,
+      "last_window_start": 17910
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_E_stream_1.txt",
+      "session": "S1b",
+      "recording": "S1b_E",
+      "antenna": 1,
+      "label": 0,
+      "shape": [
+        18270,
+        100
+      ],
+      "windows": 598,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18270,
+      "first_window_start": 0,
+      "last_window_start": 17910
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_E_stream_2.txt",
+      "session": "S1b",
+      "recording": "S1b_E",
+      "antenna": 2,
+      "label": 0,
+      "shape": [
+        18270,
+        100
+      ],
+      "windows": 598,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18270,
+      "first_window_start": 0,
+      "last_window_start": 17910
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_E_stream_3.txt",
+      "session": "S1b",
+      "recording": "S1b_E",
+      "antenna": 3,
+      "label": 0,
+      "shape": [
+        18270,
+        100
+      ],
+      "windows": 598,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18270,
+      "first_window_start": 0,
+      "last_window_start": 17910
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_J1_stream_0.txt",
+      "session": "S1b",
+      "recording": "S1b_J1",
+      "antenna": 0,
+      "label": 4,
+      "shape": [
+        8756,
+        100
+      ],
+      "windows": 281,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8756,
+      "first_window_start": 0,
+      "last_window_start": 8400
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_J1_stream_1.txt",
+      "session": "S1b",
+      "recording": "S1b_J1",
+      "antenna": 1,
+      "label": 4,
+      "shape": [
+        8756,
+        100
+      ],
+      "windows": 281,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8756,
+      "first_window_start": 0,
+      "last_window_start": 8400
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_J1_stream_2.txt",
+      "session": "S1b",
+      "recording": "S1b_J1",
+      "antenna": 2,
+      "label": 4,
+      "shape": [
+        8756,
+        100
+      ],
+      "windows": 281,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8756,
+      "first_window_start": 0,
+      "last_window_start": 8400
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_J1_stream_3.txt",
+      "session": "S1b",
+      "recording": "S1b_J1",
+      "antenna": 3,
+      "label": 4,
+      "shape": [
+        8756,
+        100
+      ],
+      "windows": 281,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8756,
+      "first_window_start": 0,
+      "last_window_start": 8400
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_J2_stream_0.txt",
+      "session": "S1b",
+      "recording": "S1b_J2",
+      "antenna": 0,
+      "label": 4,
+      "shape": [
+        8667,
+        100
+      ],
+      "windows": 278,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8667,
+      "first_window_start": 0,
+      "last_window_start": 8310
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_J2_stream_1.txt",
+      "session": "S1b",
+      "recording": "S1b_J2",
+      "antenna": 1,
+      "label": 4,
+      "shape": [
+        8667,
+        100
+      ],
+      "windows": 278,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8667,
+      "first_window_start": 0,
+      "last_window_start": 8310
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_J2_stream_2.txt",
+      "session": "S1b",
+      "recording": "S1b_J2",
+      "antenna": 2,
+      "label": 4,
+      "shape": [
+        8667,
+        100
+      ],
+      "windows": 278,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8667,
+      "first_window_start": 0,
+      "last_window_start": 8310
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_J2_stream_3.txt",
+      "session": "S1b",
+      "recording": "S1b_J2",
+      "antenna": 3,
+      "label": 4,
+      "shape": [
+        8667,
+        100
+      ],
+      "windows": 278,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8667,
+      "first_window_start": 0,
+      "last_window_start": 8310
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_L_stream_0.txt",
+      "session": "S1b",
+      "recording": "S1b_L",
+      "antenna": 0,
+      "label": 1,
+      "shape": [
+        19329,
+        100
+      ],
+      "windows": 633,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19329,
+      "first_window_start": 0,
+      "last_window_start": 18960
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_L_stream_1.txt",
+      "session": "S1b",
+      "recording": "S1b_L",
+      "antenna": 1,
+      "label": 1,
+      "shape": [
+        19329,
+        100
+      ],
+      "windows": 633,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19329,
+      "first_window_start": 0,
+      "last_window_start": 18960
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_L_stream_2.txt",
+      "session": "S1b",
+      "recording": "S1b_L",
+      "antenna": 2,
+      "label": 1,
+      "shape": [
+        19329,
+        100
+      ],
+      "windows": 633,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19329,
+      "first_window_start": 0,
+      "last_window_start": 18960
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_L_stream_3.txt",
+      "session": "S1b",
+      "recording": "S1b_L",
+      "antenna": 3,
+      "label": 1,
+      "shape": [
+        19329,
+        100
+      ],
+      "windows": 633,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19329,
+      "first_window_start": 0,
+      "last_window_start": 18960
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_R_stream_0.txt",
+      "session": "S1b",
+      "recording": "S1b_R",
+      "antenna": 0,
+      "label": 3,
+      "shape": [
+        19253,
+        100
+      ],
+      "windows": 631,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19253,
+      "first_window_start": 0,
+      "last_window_start": 18900
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_R_stream_1.txt",
+      "session": "S1b",
+      "recording": "S1b_R",
+      "antenna": 1,
+      "label": 3,
+      "shape": [
+        19253,
+        100
+      ],
+      "windows": 631,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19253,
+      "first_window_start": 0,
+      "last_window_start": 18900
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_R_stream_2.txt",
+      "session": "S1b",
+      "recording": "S1b_R",
+      "antenna": 2,
+      "label": 3,
+      "shape": [
+        19253,
+        100
+      ],
+      "windows": 631,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19253,
+      "first_window_start": 0,
+      "last_window_start": 18900
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_R_stream_3.txt",
+      "session": "S1b",
+      "recording": "S1b_R",
+      "antenna": 3,
+      "label": 3,
+      "shape": [
+        19253,
+        100
+      ],
+      "windows": 631,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19253,
+      "first_window_start": 0,
+      "last_window_start": 18900
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_W_stream_0.txt",
+      "session": "S1b",
+      "recording": "S1b_W",
+      "antenna": 0,
+      "label": 2,
+      "shape": [
+        18927,
+        100
+      ],
+      "windows": 620,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18927,
+      "first_window_start": 0,
+      "last_window_start": 18570
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_W_stream_1.txt",
+      "session": "S1b",
+      "recording": "S1b_W",
+      "antenna": 1,
+      "label": 2,
+      "shape": [
+        18927,
+        100
+      ],
+      "windows": 620,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18927,
+      "first_window_start": 0,
+      "last_window_start": 18570
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_W_stream_2.txt",
+      "session": "S1b",
+      "recording": "S1b_W",
+      "antenna": 2,
+      "label": 2,
+      "shape": [
+        18927,
+        100
+      ],
+      "windows": 620,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18927,
+      "first_window_start": 0,
+      "last_window_start": 18570
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1b/S1b_W_stream_3.txt",
+      "session": "S1b",
+      "recording": "S1b_W",
+      "antenna": 3,
+      "label": 2,
+      "shape": [
+        18927,
+        100
+      ],
+      "windows": 620,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18927,
+      "first_window_start": 0,
+      "last_window_start": 18570
+    }
+  ],
+  "val": [
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_E_stream_0.txt",
+      "session": "S1c",
+      "recording": "S1c_E",
+      "antenna": 0,
+      "label": 0,
+      "shape": [
+        18929,
+        100
+      ],
+      "windows": 620,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18929,
+      "first_window_start": 0,
+      "last_window_start": 18570
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_E_stream_1.txt",
+      "session": "S1c",
+      "recording": "S1c_E",
+      "antenna": 1,
+      "label": 0,
+      "shape": [
+        18929,
+        100
+      ],
+      "windows": 620,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18929,
+      "first_window_start": 0,
+      "last_window_start": 18570
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_E_stream_2.txt",
+      "session": "S1c",
+      "recording": "S1c_E",
+      "antenna": 2,
+      "label": 0,
+      "shape": [
+        18929,
+        100
+      ],
+      "windows": 620,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18929,
+      "first_window_start": 0,
+      "last_window_start": 18570
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_E_stream_3.txt",
+      "session": "S1c",
+      "recording": "S1c_E",
+      "antenna": 3,
+      "label": 0,
+      "shape": [
+        18929,
+        100
+      ],
+      "windows": 620,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18929,
+      "first_window_start": 0,
+      "last_window_start": 18570
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_J1_stream_0.txt",
+      "session": "S1c",
+      "recording": "S1c_J1",
+      "antenna": 0,
+      "label": 4,
+      "shape": [
+        8279,
+        100
+      ],
+      "windows": 265,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8279,
+      "first_window_start": 0,
+      "last_window_start": 7920
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_J1_stream_1.txt",
+      "session": "S1c",
+      "recording": "S1c_J1",
+      "antenna": 1,
+      "label": 4,
+      "shape": [
+        8279,
+        100
+      ],
+      "windows": 265,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8279,
+      "first_window_start": 0,
+      "last_window_start": 7920
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_J1_stream_2.txt",
+      "session": "S1c",
+      "recording": "S1c_J1",
+      "antenna": 2,
+      "label": 4,
+      "shape": [
+        8279,
+        100
+      ],
+      "windows": 265,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8279,
+      "first_window_start": 0,
+      "last_window_start": 7920
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_J1_stream_3.txt",
+      "session": "S1c",
+      "recording": "S1c_J1",
+      "antenna": 3,
+      "label": 4,
+      "shape": [
+        8279,
+        100
+      ],
+      "windows": 265,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8279,
+      "first_window_start": 0,
+      "last_window_start": 7920
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_J2_stream_0.txt",
+      "session": "S1c",
+      "recording": "S1c_J2",
+      "antenna": 0,
+      "label": 4,
+      "shape": [
+        8784,
+        100
+      ],
+      "windows": 282,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8784,
+      "first_window_start": 0,
+      "last_window_start": 8430
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_J2_stream_1.txt",
+      "session": "S1c",
+      "recording": "S1c_J2",
+      "antenna": 1,
+      "label": 4,
+      "shape": [
+        8784,
+        100
+      ],
+      "windows": 282,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8784,
+      "first_window_start": 0,
+      "last_window_start": 8430
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_J2_stream_2.txt",
+      "session": "S1c",
+      "recording": "S1c_J2",
+      "antenna": 2,
+      "label": 4,
+      "shape": [
+        8784,
+        100
+      ],
+      "windows": 282,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8784,
+      "first_window_start": 0,
+      "last_window_start": 8430
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_J2_stream_3.txt",
+      "session": "S1c",
+      "recording": "S1c_J2",
+      "antenna": 3,
+      "label": 4,
+      "shape": [
+        8784,
+        100
+      ],
+      "windows": 282,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 8784,
+      "first_window_start": 0,
+      "last_window_start": 8430
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_L_stream_0.txt",
+      "session": "S1c",
+      "recording": "S1c_L",
+      "antenna": 0,
+      "label": 1,
+      "shape": [
+        19547,
+        100
+      ],
+      "windows": 641,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19547,
+      "first_window_start": 0,
+      "last_window_start": 19200
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_L_stream_1.txt",
+      "session": "S1c",
+      "recording": "S1c_L",
+      "antenna": 1,
+      "label": 1,
+      "shape": [
+        19547,
+        100
+      ],
+      "windows": 641,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19547,
+      "first_window_start": 0,
+      "last_window_start": 19200
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_L_stream_2.txt",
+      "session": "S1c",
+      "recording": "S1c_L",
+      "antenna": 2,
+      "label": 1,
+      "shape": [
+        19547,
+        100
+      ],
+      "windows": 641,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19547,
+      "first_window_start": 0,
+      "last_window_start": 19200
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_L_stream_3.txt",
+      "session": "S1c",
+      "recording": "S1c_L",
+      "antenna": 3,
+      "label": 1,
+      "shape": [
+        19547,
+        100
+      ],
+      "windows": 641,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19547,
+      "first_window_start": 0,
+      "last_window_start": 19200
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_R_stream_0.txt",
+      "session": "S1c",
+      "recording": "S1c_R",
+      "antenna": 0,
+      "label": 3,
+      "shape": [
+        19197,
+        100
+      ],
+      "windows": 629,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19197,
+      "first_window_start": 0,
+      "last_window_start": 18840
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_R_stream_1.txt",
+      "session": "S1c",
+      "recording": "S1c_R",
+      "antenna": 1,
+      "label": 3,
+      "shape": [
+        19197,
+        100
+      ],
+      "windows": 629,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19197,
+      "first_window_start": 0,
+      "last_window_start": 18840
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_R_stream_2.txt",
+      "session": "S1c",
+      "recording": "S1c_R",
+      "antenna": 2,
+      "label": 3,
+      "shape": [
+        19197,
+        100
+      ],
+      "windows": 629,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19197,
+      "first_window_start": 0,
+      "last_window_start": 18840
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_R_stream_3.txt",
+      "session": "S1c",
+      "recording": "S1c_R",
+      "antenna": 3,
+      "label": 3,
+      "shape": [
+        19197,
+        100
+      ],
+      "windows": 629,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 19197,
+      "first_window_start": 0,
+      "last_window_start": 18840
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_W_stream_0.txt",
+      "session": "S1c",
+      "recording": "S1c_W",
+      "antenna": 0,
+      "label": 2,
+      "shape": [
+        18896,
+        100
+      ],
+      "windows": 619,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18896,
+      "first_window_start": 0,
+      "last_window_start": 18540
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_W_stream_1.txt",
+      "session": "S1c",
+      "recording": "S1c_W",
+      "antenna": 1,
+      "label": 2,
+      "shape": [
+        18896,
+        100
+      ],
+      "windows": 619,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18896,
+      "first_window_start": 0,
+      "last_window_start": 18540
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_W_stream_2.txt",
+      "session": "S1c",
+      "recording": "S1c_W",
+      "antenna": 2,
+      "label": 2,
+      "shape": [
+        18896,
+        100
+      ],
+      "windows": 619,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18896,
+      "first_window_start": 0,
+      "last_window_start": 18540
+    },
+    {
+      "path": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Data/doppler_traces/S1c/S1c_W_stream_3.txt",
+      "session": "S1c",
+      "recording": "S1c_W",
+      "antenna": 3,
+      "label": 2,
+      "shape": [
+        18896,
+        100
+      ],
+      "windows": 619,
+      "partition": "full",
+      "partition_start": 0,
+      "partition_end": 18896,
+      "first_window_start": 0,
+      "last_window_start": 18540
+    }
+  ]
+}

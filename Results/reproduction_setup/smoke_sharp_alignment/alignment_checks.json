@@ -1,0 +1,9 @@
+{
+  "fusion_partition_reproduces_checkpoint": true,
+  "full_protocol_individual_window_counts": {
+    "train": 21648,
+    "val": 6692,
+    "test_s1": 6544
+  },
+  "test_partitions_evaluated": false
+}

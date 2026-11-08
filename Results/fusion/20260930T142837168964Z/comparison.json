@@ -1,0 +1,471 @@
+{
+  "checkpoint": "/Users/contingency/Desktop/Masters/Neural Networks/Project/Results/contrastive_domain/20260930T140121748559Z/best_f1.pt",
+  "checkpoint_epoch": 4,
+  "checkpoint_sha256": "63bb7c919606b79be6a62e0f67ce97959cbe2a93836f74ebcea50cff4f2e8c65",
+  "sessions": [
+    "S1c"
+  ],
+  "preprocessing": "trace_mean",
+  "classes": [
+    "empty",
+    "sitting",
+    "walking",
+    "running",
+    "jumping"
+  ],
+  "window_rows": 340,
+  "stride": 30,
+  "partition": "full",
+  "recordings": 6,
+  "aligned_windows": 3056,
+  "rule": "at least 3 of 4 argmax labels agree; otherwise argmax of summed raw logits",
+  "majority_windows": 2059,
+  "fallback_windows": 997,
+  "single_antenna": {
+    "samples": 12224,
+    "accuracy": 0.712205497382199,
+    "macro_f1": 0.7117463017022795,
+    "confusion_matrix": [
+      [
+        2480,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        74,
+        1920,
+        0,
+        570,
+        0
+      ],
+      [
+        0,
+        0,
+        1570,
+        796,
+        110
+      ],
+      [
+        0,
+        0,
+        502,
+        1794,
+        220
+      ],
+      [
+        0,
+        0,
+        856,
+        390,
+        942
+      ]
+    ],
+    "per_class": {
+      "empty": {
+        "precision": 0.971025841816758,
+        "recall": 1.0,
+        "f1": 0.9852999602701629,
+        "support": 2480
+      },
+      "sitting": {
+        "precision": 1.0,
+        "recall": 0.748829953198128,
+        "f1": 0.856378233719893,
+        "support": 2564
+      },
+      "walking": {
+        "precision": 0.5362021857923497,
+        "recall": 0.6340872374798061,
+        "f1": 0.5810510732790526,
+        "support": 2476
+      },
+      "running": {
+        "precision": 0.5053521126760563,
+        "recall": 0.7130365659777425,
+        "f1": 0.5914935707220573,
+        "support": 2516
+      },
+      "jumping": {
+        "precision": 0.7405660377358491,
+        "recall": 0.4305301645338208,
+        "f1": 0.5445086705202312,
+        "support": 2188
+      }
+    }
+  },
+  "per_antenna": {
+    "0": {
+      "samples": 3056,
+      "accuracy": 0.6829188481675392,
+      "macro_f1": 0.6264577855318663,
+      "confusion_matrix": [
+        [
+          620,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          641,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          509,
+          110
+        ],
+        [
+          0,
+          0,
+          0,
+          409,
+          220
+        ],
+        [
+          0,
+          0,
+          0,
+          130,
+          417
+        ]
+      ],
+      "per_class": {
+        "empty": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 620
+        },
+        "sitting": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 641
+        },
+        "walking": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 619
+        },
+        "running": {
+          "precision": 0.3902671755725191,
+          "recall": 0.6502384737678856,
+          "f1": 0.4877757901013715,
+          "support": 629
+        },
+        "jumping": {
+          "precision": 0.5582329317269076,
+          "recall": 0.7623400365630713,
+          "f1": 0.6445131375579598,
+          "support": 547
+        }
+      }
+    },
+    "1": {
+      "samples": 3056,
+      "accuracy": 0.5222513089005235,
+      "macro_f1": 0.41635502481589004,
+      "confusion_matrix": [
+        [
+          620,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          68,
+          3,
+          0,
+          570,
+          0
+        ],
+        [
+          0,
+          0,
+          332,
+          287,
+          0
+        ],
+        [
+          0,
+          0,
+          14,
+          615,
+          0
+        ],
+        [
+          0,
+          0,
+          481,
+          40,
+          26
+        ]
+      ],
+      "per_class": {
+        "empty": {
+          "precision": 0.9011627906976745,
+          "recall": 1.0,
+          "f1": 0.9480122324159022,
+          "support": 620
+        },
+        "sitting": {
+          "precision": 1.0,
+          "recall": 0.0046801872074883,
+          "f1": 0.009316770186335404,
+          "support": 641
+        },
+        "walking": {
+          "precision": 0.4014510278113664,
+          "recall": 0.5363489499192245,
+          "f1": 0.45919778699861685,
+          "support": 619
+        },
+        "running": {
+          "precision": 0.40674603174603174,
+          "recall": 0.9777424483306836,
+          "f1": 0.5744978981784213,
+          "support": 629
+        },
+        "jumping": {
+          "precision": 1.0,
+          "recall": 0.04753199268738574,
+          "f1": 0.09075043630017451,
+          "support": 547
+        }
+      }
+    },
+    "2": {
+      "samples": 3056,
+      "accuracy": 0.6613219895287958,
+      "macro_f1": 0.5775753608094034,
+      "confusion_matrix": [
+        [
+          620,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          641,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          619,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          488,
+          141,
+          0
+        ],
+        [
+          0,
+          0,
+          342,
+          205,
+          0
+        ]
+      ],
+      "per_class": {
+        "empty": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 620
+        },
+        "sitting": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 641
+        },
+        "walking": {
+          "precision": 0.4271911663216011,
+          "recall": 1.0,
+          "f1": 0.5986460348162476,
+          "support": 619
+        },
+        "running": {
+          "precision": 0.407514450867052,
+          "recall": 0.22416534181240064,
+          "f1": 0.28923076923076924,
+          "support": 629
+        },
+        "jumping": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 547
+        }
+      }
+    },
+    "3": {
+      "samples": 3056,
+      "accuracy": 0.9823298429319371,
+      "macro_f1": 0.9813692595305316,
+      "confusion_matrix": [
+        [
+          620,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          6,
+          635,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          619,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          629,
+          0
+        ],
+        [
+          0,
+          0,
+          33,
+          15,
+          499
+        ]
+      ],
+      "per_class": {
+        "empty": {
+          "precision": 0.9904153354632588,
+          "recall": 1.0,
+          "f1": 0.9951845906902087,
+          "support": 620
+        },
+        "sitting": {
+          "precision": 1.0,
+          "recall": 0.9906396255850234,
+          "f1": 0.9952978056426333,
+          "support": 641
+        },
+        "walking": {
+          "precision": 0.9493865030674846,
+          "recall": 1.0,
+          "f1": 0.9740361919748229,
+          "support": 619
+        },
+        "running": {
+          "precision": 0.9767080745341615,
+          "recall": 1.0,
+          "f1": 0.9882168106834249,
+          "support": 629
+        },
+        "jumping": {
+          "precision": 1.0,
+          "recall": 0.9122486288848263,
+          "f1": 0.9541108986615678,
+          "support": 547
+        }
+      }
+    }
+  },
+  "decision_fusion": {
+    "samples": 3056,
+    "accuracy": 0.8216623036649214,
+    "macro_f1": 0.7392096679821765,
+    "confusion_matrix": [
+      [
+        620,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        641,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        611,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        629,
+        0
+      ],
+      [
+        0,
+        0,
+        90,
+        447,
+        10
+      ]
+    ],
+    "per_class": {
+      "empty": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 620
+      },
+      "sitting": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 641
+      },
+      "walking": {
+        "precision": 0.8716119828815977,
+        "recall": 0.9870759289176091,
+        "f1": 0.9257575757575758,
+        "support": 619
+      },
+      "running": {
+        "precision": 0.5802583025830258,
+        "recall": 1.0,
+        "f1": 0.7343841214244017,
+        "support": 629
+      },
+      "jumping": {
+        "precision": 1.0,
+        "recall": 0.018281535648994516,
+        "f1": 0.03590664272890485,
+        "support": 547
+      }
+    }
+  },
+  "saved_validation_reproduced": true
+}

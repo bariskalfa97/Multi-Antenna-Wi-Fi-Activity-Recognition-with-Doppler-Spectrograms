@@ -1,0 +1,65 @@
+{
+  "data_root": "/home/ubuntu/Deep Learning/Data/drive-download-20260811T182648Z-1-001/doppler_traces",
+  "protocol": "sharp",
+  "train_sessions": [
+    "S1a",
+    "S1b",
+    "S1c"
+  ],
+  "val_sessions": [
+    "S1a",
+    "S1b",
+    "S1c"
+  ],
+  "test_sessions": [
+    "S2a",
+    "S2b",
+    "S3a",
+    "S4a",
+    "S4b",
+    "S5a",
+    "S6a",
+    "S6b",
+    "S7a"
+  ],
+  "preprocessing": "trace_mean",
+  "evaluate_test": false,
+  "epochs": 1,
+  "batch_size": 32,
+  "lr": 0.0001,
+  "stride": 30,
+  "patience": 3,
+  "seed": 42,
+  "device": "auto",
+  "output": "Results/reproduction_setup/smoke_sharp_alignment",
+  "max_windows_per_trace": 2,
+  "classes": [
+    "empty",
+    "sitting",
+    "walking",
+    "running",
+    "jumping"
+  ],
+  "class_codes": [
+    "E",
+    "L",
+    "W",
+    "R",
+    "J"
+  ],
+  "input_shape": [
+    1,
+    340,
+    100
+  ],
+  "evaluation": "single antenna",
+  "actual_device": "cuda",
+  "torch_version": "2.14.0+cu130",
+  "initialization": "xavier_uniform_weights_zero_bias",
+  "val_partition": "val",
+  "eval_stride": 30,
+  "reference_windows": true,
+  "selected_checkpoint": "final.pt",
+  "adam_epsilon": 1e-07,
+  "reference_commit": "5bc1788896e800218cd167734f6c11a05b88e983"
+}

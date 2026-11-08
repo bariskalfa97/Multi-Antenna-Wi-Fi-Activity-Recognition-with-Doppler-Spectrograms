@@ -1,0 +1,17 @@
+{
+  "fusion_positive_fraction": 0.5673254728317261,
+  "gradient_norms": {
+    "conv_branch.0.weight": 0.030746936798095703,
+    "conv_branch.0.bias": 0.14357469975948334,
+    "deep_branch.0.weight": 0.0029701904859393835,
+    "deep_branch.0.bias": 0.08869114518165588,
+    "deep_branch.3.weight": 0.008676893077790737,
+    "deep_branch.3.bias": 0.1467554122209549,
+    "deep_branch.5.weight": 0.01773449219763279,
+    "deep_branch.5.bias": 0.19352880120277405,
+    "fusion.0.weight": 0.037142544984817505,
+    "fusion.0.bias": 0.10705181956291199,
+    "dense.weight": 0.8918598294258118,
+    "dense.bias": 0.0059682768769562244
+  }
+}
